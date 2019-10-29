@@ -1,0 +1,16 @@
+PODS:
+  - KVNProgress (2.3.5)
+
+DEPENDENCIES:
+  - KVNProgress
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KVNProgress
+
+SPEC CHECKSUMS:
+  KVNProgress: d7046cce142f1aeb740db39dc3cacfe910fac354
+
+PODFILE CHECKSUM: 5b81cc5a0a5e70f1eab66a190c6ae4c602e02410
+
+COCOAPODS: 1.7.5

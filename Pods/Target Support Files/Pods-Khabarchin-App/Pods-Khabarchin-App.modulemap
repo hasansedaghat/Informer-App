@@ -1,0 +1,6 @@
+framework module Pods_Khabarchin_App {
+  umbrella header "Pods-Informer-umbrella.h"
+
+  export *
+  module * { export * }
+}
